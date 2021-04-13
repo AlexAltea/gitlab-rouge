@@ -2,6 +2,8 @@
 
 Static syntax highlighting for custom languages in GitLab CE/EE installations via Rouge hot-patching.
 
+**Simply a proof-of-concept project. Not affiliated with GitLab in any way. Execute at your own risk.**
+
 ## Usage
 
 Install [Rouge](https://github.com/rouge-ruby/rouge), then run the following command:
