@@ -1,0 +1,7 @@
+// Type source code in your language here...
+class MyClass {
+  @attribute
+  void main() {
+    Console.writeln("Hello Rouge world\n");
+  }
+}
